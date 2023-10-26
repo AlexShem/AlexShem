@@ -24,9 +24,13 @@
 - 📧 **Email:** alex.shemendyuk@gmail.com
 - 🌐 **LinkedIn:** [Alex Shem](https://www.linkedin.com/in/alex-shem/)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexShem&layout=compact&theme=github_dark_dimmed&langs_count=8)
+
+![AlexShem's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=AlexShem&count_private=true&show_icons=true&theme=github_dark_dimmed)
+
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexShem&layout=compact&theme=github_dark_dimmed&langs_count=8&card_width=100" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AlexShem&repo=advanced_calculus_2023&theme=github_dark_dimmed" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=AlexShem&count_private=true&show_icons=true&theme=github_dark_dimmed&card_width=120" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AlexShem&repo=mathmodels_and_diff_equations_23-24&theme=github_dark_dimmed" />
 </a>
