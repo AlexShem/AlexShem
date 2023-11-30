@@ -22,7 +22,7 @@
 
 #### 📞 **Contact:**
 - 📧 **Email:** alex.shemendyuk@gmail.com
-- 🌐 **LinkedIn:** [Alex Shem](https://www.linkedin.com/in/alex-shem/)
+- 🌐 **LinkedIn:** [Aleksandr Shemendyuk](https://www.linkedin.com/in/alex-shem/)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexShem&layout=compact&theme=github_dark_dimmed&langs_count=8)
 
