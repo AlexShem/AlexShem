@@ -6,18 +6,18 @@
 - **Basic:** C++ 🟦, VBA 📊, JavaScript ☕, HTML 🌍
 
 #### 🔧 **Technical Expertise:**
-- 🔀 Proficient in using GitHub features such as branching, pull requests, and issues.
-- 📦 Built an R package complete with tests, bookdown documentation, and a Shiny app.
-- 📈 Conducted data analysis using R, including model fitting, machine learning techniques.
-- 🔢 Engaged in mathematical modelling and numerical methods using MATLAB, especially solutions of differential equations.
+- 🔀 **GitHub** features such as branching, pull requests, and issues.
+- 📦 Built an **R package** completed with tests, bookdown documentation, and a Shiny app.
+- 📈 **Data analysis** using R, including model fitting and machine learning techniques.
+- 🔢 **Mathematical modelling** and numerical methods using MATLAB, especially solutions of differential equations.
 
 #### 🎓 **Educational Qualifications:**
-- **PhD in Actuarial Science** (ongoing, 4+ years) - University of Lausanne 🇨🇭
-- **Masters in Statistical Modelling and Actuarial Science** (2 years) - HSE University, Moscow 🇷🇺
-- **Bachelor in Applied Mathematics and Informatics** (4 years) - HSE University, Moscow 🇷🇺
+- **PhD in Actuarial Science** (2024) - University of Lausanne 🇨🇭
+- **Masters in Statistical Modelling and Actuarial Science** (2019) - HSE University, Moscow 🇷🇺
+- **Bachelor in Applied Mathematics and Informatics** (2017) - HSE University, Moscow 🇷🇺
 
 #### 🌱 **Interests:**
-- 🤖 Exploring AI solutions in Python, which has spurred a deeper interest in the language.
+- 🤖 Exploring AI solutions in Python, sparking a deeper interest in the language.
 - 🎥 Content creation using AI
 
 #### 📞 **Contact:**
