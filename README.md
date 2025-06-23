@@ -1,9 +1,10 @@
 ### 📌 **Aleksandr Shemendyuk**
 
 #### 💻 **Programming Skills & Proficiencies:**
-- **Advanced:** MATLAB, R <code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/matlab/matlab.png"></code> <code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/r/r.png"></code>
-- **Intermediate:** Python <code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png"></code>
-- **Basic:** C++ 🟦, VBA 📊, JavaScript ☕, HTML 🌍
+- **Advanced:** <code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png"></code> <code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/r/r.png"></code> <code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/quarto/quarto.png"></code> <code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/matlab/matlab.png"></code>
+- **Intermediate:** <code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/rust/rust.png"></code>
+- **Basic:** <code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/cpp/cpp.png"
+   alt="C++"></code> <code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/vba/vba.png"></code> <code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png"></code> <code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/typescript/typescript.png"></code> <code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/html/html.png"></code> <code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/tailwind/tailwind.png"></code>
 
 #### 🔧 **Technical Expertise:**
 - 🔀 **GitHub** features such as branching, pull requests, and issues.
