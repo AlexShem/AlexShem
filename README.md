@@ -30,7 +30,7 @@ I am a Lecturer at HEC Lausanne with expertise in statistical modelling, AI-driv
 
 ## 📫 Let’s Connect  
 ✉️ aleksandr.shemendyuk@unil.ch  
-🔗 [Website](https://alexshem.netlify.app/) · [GitHub](https://github.com/alexshem) · [LinkedIn](https://www.linkedin.com/in/alex-shem/) · [ORCID](https://orcid.org/0000-0002-3701-0558)  
+🔗 [Website](https://alexshem.dev/) · [GitHub](https://github.com/alexshem) · [LinkedIn](https://www.linkedin.com/in/alex-shem/) · [ORCID](https://orcid.org/0000-0002-3701-0558)  
 
 ---
 
